@@ -32,6 +32,12 @@ It uses:
 
 ---
 
+## Output
+
+![Output](./Output/Screenshot%20(77).png)
+
+---
+
 ## 🚀 Features
 
 ✅ Real-time messaging
@@ -126,6 +132,7 @@ src/
 │   │   └── com.codtech.chatapp/
 │   │       ├── ChatAppApplication.java
 │   │       ├── ChatController.java
+│   │       ├── ChatHistoryController.java
 │   │       ├── ChatMessage.java
 │   │       └── WebSocketConfig.java
 │   └── resources/
